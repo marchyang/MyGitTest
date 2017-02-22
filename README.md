@@ -1,0 +1,2 @@
+# MyGitTest
+only test git
